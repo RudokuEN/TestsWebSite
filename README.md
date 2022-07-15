@@ -1,4 +1,4 @@
-# **Тестирование сайта http://selenium1py.pythonanywhere.com/en-gb/**
+ # :books: **Тестирование сайта http://selenium1py.pythonanywhere.com/en-gb/** :books:
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Selenium?color=sky&logoColor=purple&style=for-the-badge)
 
@@ -14,33 +14,33 @@
 
 В файле **test_main_page.py** реализуется проверка загружается ли главная страница сайта. 
 
-![Главная страница сайта](screens\main_page.png "main_page") 
+![Главная страница сайта](https://github.com/RudokuEN/TestsWebSite/blob/master/screens/main_page.PNG "main_page") 
 
 
 В файле **test_all_books.py** реализуется проверка на загрузу страницы с книгами.
 
-![Cтраница c книгами](screens/Books.png "books_page")
+![Cтраница c книгами](https://github.com/RudokuEN/TestsWebSite/blob/master/screens/Books.PNG "books_page")
 
 
 А также проверка на загрузу страницы  конкретной книги. 
 
-![Страница книги Coders at work](screens\Coders.png "books_page")
+![Страница книги Coders at work](https://github.com/RudokuEN/TestsWebSite/blob/master/screens/Coders.PNG "books_page")
 
 
 В файле **test_all_fiction.py** реализуется проврека на загрузу страницы Fiction
 
 Чтобы перейти на страницы Fiction, нужно зайти на страницу Books
 
-![Переход из страницы с книгами в fiction](screens\books_fiction.png "books_page")
+![Переход из страницы с книгами в fiction](https://github.com/RudokuEN/TestsWebSite/blob/master/screens/books_fiction.PNG "books_fiction")
 
 Страница Fiction
 
-![Cтраница Fiction](screens\Fiction.png "books_page")
+![Cтраница Fiction](https://github.com/RudokuEN/TestsWebSite/blob/master/screens/Fiction.PNG)
 
 
 В файле **test_basket_all.py** реализуется проверка на загрузу корзины и пустоту корзины. 
 
-![Корзина](screens\basket.png "books_page")
+![Корзина](https://github.com/RudokuEN/TestsWebSite/blob/master/screens/basket.PNG "basket_page")
 
 
 
