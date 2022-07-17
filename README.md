@@ -12,7 +12,7 @@
 
 
 
-В файле **test_main_page.py** реализуется проверка загружается ли главная страница сайта. 
+В файле **test_main_page.py** реализуется проверка загрузки главной страницы. 
 
 ![Главная страница сайта](https://github.com/RudokuEN/TestsWebSite/blob/master/screens/main_page.PNG "main_page") 
 
